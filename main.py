@@ -5,8 +5,8 @@ from bs4 import BeautifulSoup as BS
 import telebot
 from decouple import config
 
-from BUTS.b import get_db, get_dbb
-from BUTS.b import get_keyboard, get_keyboardd
+from Buttons.b import get_db, get_dbb
+from Buttons.b import get_keyboard, get_keyboardd
 
 
 
